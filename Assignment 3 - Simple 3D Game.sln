@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 3 - Simple 3D Game.CSharp", "Assignment 3 - Simple 3D Game.CSharp.csproj", "{64F2D79E-C7FB-04EB-108E-F960360609F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 3 - Simple 3D Game.CSharp.Editor", "Assignment 3 - Simple 3D Game.CSharp.Editor.csproj", "{4B9E0DB0-1F5E-DA88-B16B-293854E071C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F2D79E-C7FB-04EB-108E-F960360609F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F2D79E-C7FB-04EB-108E-F960360609F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F2D79E-C7FB-04EB-108E-F960360609F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F2D79E-C7FB-04EB-108E-F960360609F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9E0DB0-1F5E-DA88-B16B-293854E071C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9E0DB0-1F5E-DA88-B16B-293854E071C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9E0DB0-1F5E-DA88-B16B-293854E071C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9E0DB0-1F5E-DA88-B16B-293854E071C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
