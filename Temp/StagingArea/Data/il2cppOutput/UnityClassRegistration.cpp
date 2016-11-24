@@ -46,7 +46,7 @@ void RegisterStaticallyLinkedModulesGranular()
 
 void RegisterAllClasses()
 {
-	//Total: 84 classes
+	//Total: 83 classes
 	//0. QualitySettings
 	void RegisterClass_QualitySettings();
 	RegisterClass_QualitySettings();
@@ -355,32 +355,28 @@ void RegisterAllClasses()
 	void RegisterClass_LightmapSettings();
 	RegisterClass_LightmapSettings();
 
-	//77. NavMeshSettings
-	void RegisterClass_NavMeshSettings();
-	RegisterClass_NavMeshSettings();
-
-	//78. ParticleSystemRenderer
+	//77. ParticleSystemRenderer
 	void RegisterClass_ParticleSystemRenderer();
 	RegisterClass_ParticleSystemRenderer();
 
-	//79. NavMeshData
-	void RegisterClass_NavMeshData();
-	RegisterClass_NavMeshData();
-
-	//80. LightProbes
+	//78. LightProbes
 	void RegisterClass_LightProbes();
 	RegisterClass_LightProbes();
 
-	//81. RuntimeInitializeOnLoadManager
+	//79. RuntimeInitializeOnLoadManager
 	void RegisterClass_RuntimeInitializeOnLoadManager();
 	RegisterClass_RuntimeInitializeOnLoadManager();
 
-	//82. CloudWebServicesManager
+	//80. CloudWebServicesManager
 	void RegisterClass_CloudWebServicesManager();
 	RegisterClass_CloudWebServicesManager();
 
-	//83. UnityConnectSettings
+	//81. UnityConnectSettings
 	void RegisterClass_UnityConnectSettings();
 	RegisterClass_UnityConnectSettings();
+
+	//82. NavMeshSettings
+	void RegisterClass_NavMeshSettings();
+	RegisterClass_NavMeshSettings();
 
 }

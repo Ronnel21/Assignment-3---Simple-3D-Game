@@ -112,7 +112,7 @@
     <Compile Include="Assets\_Scripts\CheckPointController.cs" />
     <Compile Include="Assets\_Scripts\EnemyController.cs" />
     <Compile Include="Assets\_Scripts\FollowPlayer.cs" />
-    <Compile Include="Assets\_Scripts\GameController1.cs" />
+    <Compile Include="Assets\_Scripts\KillBehaviour.cs" />
     <Compile Include="Assets\_Scripts\MenuController.cs" />
     <Compile Include="Assets\_Scripts\PlayerShoot.cs" />
   </ItemGroup>

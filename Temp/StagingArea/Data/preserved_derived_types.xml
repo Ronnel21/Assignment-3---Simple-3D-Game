@@ -39,7 +39,7 @@
 <type fullname="CheckPointController" preserve="all"/>
 <type fullname="EnemyController" preserve="all"/>
 <type fullname="FollowPlayer" preserve="all"/>
-<type fullname="GameController1" preserve="all"/>
+<type fullname="KillBehaviour" preserve="all"/>
 <type fullname="MenuController" preserve="all"/>
 <type fullname="PlayerShoot" preserve="all"/>
 </assembly>
